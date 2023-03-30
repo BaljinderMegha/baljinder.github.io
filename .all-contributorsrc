@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "daydreamer-parminder",
+      "name": "Parminder Singh",
+      "avatar_url": "",
+      "profile": "https://daydreamer-parminder.github.io/",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "masterPortfolio",
+  "projectOwner": "daydreamer-parminder",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular"
+}
